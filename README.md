@@ -50,6 +50,7 @@ plt.tight_layout()
 plt.show()
 ```
 Output Waveform
+
 <img width="629" height="463" alt="image" src="https://github.com/user-attachments/assets/90698681-8929-40b3-b422-8435a222c553" />
 
 
